@@ -1,0 +1,4 @@
+name: NMSTesting
+main: nl.dizmizzer.nms.NMSMain
+version: 1.0
+description: this
